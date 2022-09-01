@@ -41,7 +41,7 @@
     "lodash.merge": "^4.6.2",
     "qs": "^6.9.0",
     "rc": "^1.2.8",
-    "sequelize": "^5.19.2"
+    "sequelize": "^6.21.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
